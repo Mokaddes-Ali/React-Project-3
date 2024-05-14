@@ -1,0 +1,15 @@
+.FooterInner{
+    background-color:#292931;
+    margin-top: 60px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 44px;
+    text-align: left;
+    color: #FFFFFF;
+}

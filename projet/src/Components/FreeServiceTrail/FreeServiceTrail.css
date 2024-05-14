@@ -1,0 +1,76 @@
+.FreeService{
+    height: 300px;
+    width: 100%;
+    background-color: #fafafafa;
+    margin-top: 40px;
+}
+.trailLeft{
+  margin-top: 100px;
+}
+.trailLeft h1{
+    font-family: Space Grotesk;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 34px;
+    text-align: left;
+    color: black;
+    
+}
+.trailLeft p{
+    margin-right: 10px;
+    font-family: Inter;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: black;
+
+}
+.trailleftButton{
+    background-color: #EF4444;
+
+}
+.TrailCard{
+  margin-top: 90px;
+}
+
+.CardT{
+    height: 200px;
+    width: 250px;
+}
+.CardT:hover{
+    transform: translateY(-10px);
+    transition: 0.8s ease all;
+    border: 1px solid #f8d50efd;
+    box-shadow: 4px 4px rgba(0, 0, 28, 256);
+    background-color: aquamarine;
+}
+.CardImage{
+    width: 38.08px;
+   height: 45px;
+   top: 4057px;
+   left: 1141px;
+   gap: 0px;
+   border: 3px 0px 0px 0px;
+   opacity: 0px;
+   margin-top: 15px;
+   margin-left: 15px;
+
+}
+
+.CardTitle{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+     
+}
+.CardTitleText{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    
+}
