@@ -46,6 +46,7 @@ class FooterInner extends Component {
                                     <li> Delivery Details </li>
                                     <li> Terms & Conditions </li>
                                     <li> Privacy Policy </li>
+                                    <h1>Hello</h1>
                                 </ul>
                             </div>
                         </Col>
